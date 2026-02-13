@@ -13,13 +13,13 @@ A Python script that fetches book data from the OpenLibrary API, filters books p
 Clone the project  
 
 ~~~bash  
-  git clone https://github.com/afshario/library-api-python.git
+git clone https://github.com/afshario/library-api-python.git
 ~~~
 
 Install dependencies  
 
 ~~~bash  
-pip install requests
+pip install -r requirements.txt
 ~~~
 
 Run the project 
